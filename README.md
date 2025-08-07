@@ -41,18 +41,6 @@ Recon-Expert es una herramienta de búsqueda avanzada que permite crear consulta
 
 4. Abre tu navegador en [http://localhost:5173](http://localhost:5173)
 
-## 🏗️ Construcción para producción
-
-Para crear una versión optimizada para producción:
-
-```bash
-npm run build
-```
-
-## 🤝 Contribución
-
-Las contribuciones son bienvenidas. Por favor, lee las [pautas de contribución](CONTRIBUTING.md) antes de enviar un pull request.
-
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
