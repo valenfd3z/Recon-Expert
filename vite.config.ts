@@ -11,3 +11,6 @@ export default defineConfig({
     }
   }
 })
+module.exports = {
+  publicPath: '/NOMBRE_DEL_REPO/'
+}
